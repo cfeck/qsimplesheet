@@ -1,0 +1,14 @@
++---------------------------------------------------------+
+0.3.9   --- 23/03/2008
+splashscreen added
+using global clipboard.
+some functions added:
+   sum()
+   product()
+   min()
+   max()
+   average()
+   median()
+   mode()
+
++---------------------------------------------------------+

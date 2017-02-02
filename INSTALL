@@ -1,0 +1,15 @@
+Minimum requirements:
+cmake version 2.4
+Qt 4.3
+
+To build QSimpleSheet using cmake, call these commands:
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+
+Then to run QSimpleSheet without installing:
+$ ./qsimplesheet
+
+To install QSimpleSheet:
+# make install
